@@ -1,0 +1,25 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/1.png);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/3.avif);
+}
+.bg-img3 {
+  background-color: #2c1d1d;
+  background-size: cover;
+  background-image: url(/img/images.jpg);
+  font-size: 30px;
+}
+/* header::before {
+  display: block;
+  content: "";
+  height: 60px;
+} */
+#myCarousel {
+  padding-top: 500px;
+  background-color: blue;
+}
